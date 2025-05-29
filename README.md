@@ -24,7 +24,8 @@ A sleek and responsive mobile dashboard application built using **XML for UI des
 
 ## 📸 Screenshots
 
-*<img width="167" alt="image" src="https://github.com/user-attachments/assets/ff892358-9a70-4953-b43b-31d963af2865" />
+*<<img width="141" alt="image" src="https://github.com/user-attachments/assets/af20c76f-08af-4059-96e1-d5b075677c32" />
+ />
 *
 
 ---
